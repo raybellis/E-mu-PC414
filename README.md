@@ -6,7 +6,7 @@ as used in various members of the E-mu E4 rack sampler range.
 
 These PCBs have additional pads for fitting a pair of 1µF 0805
 capacitors that are intended to reduce transients that might
-cause the encoder to jump sporadically, as described by Jõrg Sigle
+cause the encoder to jump sporadically, as described by Jörg Sigle
 at https://www.jsigle.com/musicol/emufix.htm
 
 If you do not with to fit these capacitors then the boards will
