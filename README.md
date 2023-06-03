@@ -35,3 +35,13 @@ below the encoder hole, instead of to the left and right.  If your
 front panel has both sets of mounting posts present then it _may_
 be possible to use the PC414 board instead, but you will need to
 run the encoder calibration procedure.
+
+License
+-------
+
+These files are published under a BY-NC-SA license.  This allows for
+non-commercial use, and requires that any derivative works be shared
+under the same terms.
+
+If you want to make and distribute these commercially please contact
+me.  I'm in most of the E-mu groups on Facebook.
